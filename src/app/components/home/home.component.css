@@ -1,0 +1,7 @@
+.phoneImg {
+    display: inline-block;
+    width: 347px;
+    height: 497px;
+    background: url("../../../assets/images/phone_keys.png") no-repeat center top;
+    background-size: contain;
+}
